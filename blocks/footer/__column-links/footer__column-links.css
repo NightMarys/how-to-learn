@@ -2,7 +2,7 @@
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
-  list-style: none;
-  margin-bottom: 16px;
+  list-style-type: none;
+  margin: 16px 0 0;
   padding: 0;
 }
